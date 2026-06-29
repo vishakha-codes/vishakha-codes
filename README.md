@@ -4,7 +4,7 @@
 
 GenAI engineer with **10+ years** in cloud-native infrastructure, Python, and distributed systems — now focused on building **production-grade LLM pipelines, RAG systems, and AI agents** that are reliable, observable, and safe to deploy.
 
-Currently **SDE at Mercari** (GKE platform, Terraform, DORA metrics). Previously **Rakuten Mobile** (bare-metal K8s for 5G) and **OpenStack Keystone** upstream contributor.
+Currently **SDE at Mercari** (GKE platform, Terraform, DORA metrics). Previously **Rakuten Mobile** (bare-metal K8s for 5G).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -15,6 +15,16 @@ Currently **SDE at Mercari** (GKE platform, Terraform, DORA metrics). Previously
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white)
+
+## Open Source
+
+Upstream contributor to [**OpenStack**](https://github.com/openstack) (2017–2020) — identity, authentication, and compute features shipped to production clouds worldwide.
+
+- 🔐 [**openstack/keystone**](https://github.com/openstack/keystone) — Core contributor; token federation, identity mapping, and auth policy
+- ☁️ [**openstack/nova**](https://github.com/openstack/nova) — Compute platform contributions
+- 🌍 [**openstack/openstack**](https://github.com/openstack/openstack) — Cross-project integration contributions
+
+🎤 Open Infrastructure Summit presenter · [Denver](https://youtu.be/SexNDH0B7w0) · [Shanghai](https://youtu.be/x2UnbqASrtk)
 
 ## Start Here
 
@@ -63,10 +73,10 @@ Currently **SDE at Mercari** (GKE platform, Terraform, DORA metrics). Previously
 |---|---|---|
 | SDE | **Mercari** (2024–present) | GKE platform services, Terraform modules, DORA metrics pipeline |
 | Cloud Infrastructure Engineer | **Rakuten Mobile** (2020–2024) | Bare-metal Kubernetes for 4G/5G, sub-ms latency tuning |
-| OpenStack Developer | **NEC** (2017–2020) | Keystone upstream contributor, secure API design |
+| OpenStack Developer | **NEC** (2017–2020) | Upstream contributor to Keystone, Nova, and OpenStack integration |
 | Python Developer | **Genpact** (2015–2017) | Enterprise NLP, knowledge-graph pipelines |
 
-**Certifications:** Certified Kubernetes Administrator (CKA) · Open Infrastructure Summit presenter ([Denver](https://youtu.be/SexNDH0B7w0) · [Shanghai](https://youtu.be/x2UnbqASrtk))
+**Certifications:** Certified Kubernetes Administrator (CKA)
 
 ## Connect
 
